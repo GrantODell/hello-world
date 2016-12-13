@@ -1,2 +1,6 @@
 # hello-world
-Initial tutorial for experience what GitHub can do and offer.
+
+Hello World!
+
+You know what the say about learning GitHub!?....crickets....
+My time is up here!
